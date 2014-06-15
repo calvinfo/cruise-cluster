@@ -35,7 +35,7 @@ cluster.reboot(400);
 
 (The MIT License)
 
-Copyright (c) 2014 Segment.io &lt;team@segment.io&gt;
+Copyright (c) 2014 Calvin French-Owen &lt;calvin@calv.info&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
