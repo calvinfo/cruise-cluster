@@ -1,0 +1,20 @@
+{
+  "name": "cruise-cluster",
+  "version": "0.0.1",
+  "description": "Easily create a cluster of cruise nodes for testing",
+  "keywords": [
+    "cruise",
+    "cluster",
+    "test",
+    "raft"
+  ],
+  "author": "Calvin French-Owen <calvin@calv.info>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinfo/cruise-cluster.git"
+  },
+  "dependencies": {
+    "easy-table": "^0.3.0"
+  },
+  "main": "index"
+}
