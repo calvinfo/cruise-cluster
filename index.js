@@ -1,5 +1,12 @@
+
 var Table = require('easy-table');
 
+/**
+ * Module exports
+ *
+ * @param {Function} Cruise  cruise constructor to test against
+ * @return {Function} Cluster
+ */
 
 module.exports = function(Cruise){
 
